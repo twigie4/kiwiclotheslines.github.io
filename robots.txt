@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: http://www.kiwiclotheslines.co.nz/sitemap.xml
